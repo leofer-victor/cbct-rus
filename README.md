@@ -1,9 +1,8 @@
 # Robotic CBCT Meets Robotic Ultrasound (IPCAI 2025 paper)
 
-<center>Feng Li*, Yuan Bi*, Dianye Huang, Zhongliang Jiang, Nassir Navab</center>
+**Authors: Feng Li\*, Yuan Bi\*, Dianye Huang, Zhongliang Jiang, Nassir Navab**
 
-<center>CAMP, Technical University of Munich</center>
-<center>IPCAI 2025</center>
+**CAMP, Technical University of Munich**
 
 ## Abstract
 
