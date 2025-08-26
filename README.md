@@ -4,6 +4,8 @@
 
 **CAMP, Technical University of Munich**
 
+**Munich Center for Machine Learning, Munich, Germany**
+
 ## Abstract
 
 **Purpose:** The multi-modality imaging system offers optimal fused images for safe and precise interventions in modern clinical practices, such as computed tomography - ultrasound (CT-US) guidance for needle insertion. However, the limited dexterity and mobility of current imaging devices hinder their integration into standardized workflows and the advancement toward fully autonomous intervention systems. In this paper, we present a novel clinical setup where robotic cone beam computed tomography (CBCT) and robotic US are pre-calibrated and dynamically co-registered, enabling new clinical applications. This setup allows registration-free rigid registration, facilitating multi-modal guided procedures in the absence of tissue deformation.
