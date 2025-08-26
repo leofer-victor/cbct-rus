@@ -1,4 +1,4 @@
-# Robotic CBCT Meets Robotic Ultrasound (IPCAI 2025 paper)
+# [Robotic CBCT Meets Robotic Ultrasound (IPCAI 2025 paper)](https://link.springer.com/article/10.1007/s11548-025-03336-x)
 
 **Authors: Feng Li\*, Yuan Bi\*, Dianye Huang, Zhongliang Jiang, Nassir Navab**
 
